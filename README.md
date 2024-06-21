@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JAVA + DSA ,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rishishekher/rishishekher](https://github.com/rishishekher/rishishekher)
+- 👨‍💻 All of my projects are available at <strong><a href="https://github.com/rishishekher/rishishekher?tab=repositories">My Github Account</a></strong></li>
 
 - 📫 How to reach me **rishishekher1787@gmail.com**
 
