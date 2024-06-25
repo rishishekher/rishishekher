@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishishekher&label=Profile%20views&color=0e75b6&style=flat" alt="rishishekher" /> </p>
 
-- 🌱 I’m currently learning **JAVA + DSA ,**
+- 🌱 I’m currently learning **JAVA + DSA .**
 
 - 👨‍💻 All of my projects are available at <strong><a href="https://github.com/rishishekher?tab=repositories">My Github Account</a></strong></li>
 
 - 📫 How to reach me **rishishekher1787@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding, you can find me listening to music and reading tech blogs to stay updated with the latest trends.**
+- ⚡ Fun fact **:  When I'm not coding, you can find me listening to music and reading tech blogs to stay updated with the latest trends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
