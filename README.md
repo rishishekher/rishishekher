@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWsyb3EyamhrbzUxOGUzNG9keGJ5MWVnaTJzcDA3NmhndW1xc3o1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp" alt="MasterHead">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWsyb3EyamhrbzUxOGUzNG9keGJ5MWVnaTJzcDA3NmhndW1xc3o1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp" alt="MasterHead" width="300" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Rishi Shekher</h1>
 <h3 align="center">👨🏽‍💻 I'm currently learning to create java programming based Projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
